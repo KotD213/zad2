@@ -1,2 +1,0 @@
-git add example.txt
-git commit -m "Zmiany na branch1"
